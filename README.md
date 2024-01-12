@@ -13,6 +13,7 @@
   4) Use Insomnia at http://localhost:3001 with the various end points to run GET, PUT, POST, and DELETE routes. 
 
 ## Demo Video
+[E-Commerce Insomnia Demo.webm](https://github.com/ANelson44/e-commerce-backend/assets/145131926/9a23cf3b-b791-4460-9e59-931b6f3870b3)
 
 
 ## Built With
